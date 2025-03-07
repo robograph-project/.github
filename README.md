@@ -2,6 +2,8 @@
 
 Robotics software application declarative graph metaproject.
 
+This document acts as the entrypoint for the project and is a work in progress.
+
 Tracks and develops tools toward the following goals.
 
 ## About
@@ -53,6 +55,3 @@ While the launchfiles are theoretically "somewhat declarative" - given that the 
 
 The ability to have glabal-default parameterss, with group- & individual-level overrides to generate a tree of configuration that renders into one global parameter spec for a concrete application, that could be analyzed ahead of time for type consistency and general debugging introspection.
 
-## Goals & Benefits
-
-Work in progress...
