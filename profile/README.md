@@ -19,5 +19,5 @@ This organization exists to track new development and useful tools that meet its
 
 The best way to get started is to head over to [the docs repository](https://github.com/robograph-project/docs) and [join the discussion](https://github.com/orgs/robograph-project/discussions). 
 
-This projlect is early days and we're looking for community input to help figure out priorities.
+This project is early days and we're looking for community input to help figure out priorities.
 
