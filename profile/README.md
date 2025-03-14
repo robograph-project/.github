@@ -4,7 +4,7 @@ Robotics software application declarative graph metaproject, focused primarily o
 
 ## Motivation
 
-Allow us to declare the interfaces and structure of our ROS 2 applications, just as we would library interfaces or [web APIs](https://www.openapis.org).
+Allow us to declare the interfaces and structure of our ROS 2 applications, just as we might do with [library interfaces](https://en.cppreference.com/w/cpp/language/modules), [web APIs](https://www.openapis.org), or [system configuration](https://nix.dev/manual/nix/2.24/).
 
 The current default model of imperatively created dynamic applications, while useful for its flexibility, allows for many types of misconfiguration that can't be caught until runtime, and make the application difficult to reason about at a high level, manually or with automated tooling. 
 
