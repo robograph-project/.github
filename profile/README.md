@@ -22,7 +22,7 @@ This project tracks new development and useful tools that meet these goals:
 
 ## Get Involved!
 
-The best way to get started is to head over to [the docs repository](https://github.com/robograph-project/docs) and [join the discussion](https://github.com/orgs/robograph-project/discussions). 
+Check out [the planning repository](https://github.com/robograph-project/planning) to follow work underway, and [join the discussion](https://github.com/orgs/robograph-project/discussions). 
 
 This project is early days and we're looking for community input to help figure out priorities.
 
